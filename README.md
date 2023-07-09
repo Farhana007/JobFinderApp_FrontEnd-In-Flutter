@@ -1,4 +1,4 @@
-# science_app
+# job_finder app front-end
 
 A new Flutter project.
 
